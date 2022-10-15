@@ -16,7 +16,7 @@ const GetData = () => {
   return (
     <>
       <h1 className="text-center bg-primary text-white">
-        Mater Dei College Venues
+        Reactjs Midterm Project
       </h1>
       {error && (
         <p className="text-danger text-center">Something wrong from the API</p>
